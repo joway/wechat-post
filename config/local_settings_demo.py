@@ -1,0 +1,5 @@
+WECHAT_APP_ID = ''
+WECHAT_APP_SECRET = ''
+WECHAT_APP_TOKEN = ''
+SECRET_KEY = ''
+encoding_aes_key = ''
